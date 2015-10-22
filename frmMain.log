@@ -1,0 +1,15 @@
+Line 109: Class MCI.MMControl of control MMControl1 was not a loaded control class.
+Line 115: The property name _ExtentX in MMControl1 is invalid.
+Line 116: The property name _ExtentY in MMControl1 is invalid.
+Line 117: The property name _Version in MMControl1 is invalid.
+Line 118: The property name PlayEnabled in MMControl1 is invalid.
+Line 119: The property name PauseEnabled in MMControl1 is invalid.
+Line 120: The property name StopEnabled in MMControl1 is invalid.
+Line 121: The property name PrevVisible in MMControl1 is invalid.
+Line 122: The property name NextVisible in MMControl1 is invalid.
+Line 123: The property name BackVisible in MMControl1 is invalid.
+Line 124: The property name StepVisible in MMControl1 is invalid.
+Line 125: The property name RecordVisible in MMControl1 is invalid.
+Line 126: The property name EjectVisible in MMControl1 is invalid.
+Line 127: The property name DeviceType in MMControl1 is invalid.
+Line 128: The property name FileName in MMControl1 is invalid.
